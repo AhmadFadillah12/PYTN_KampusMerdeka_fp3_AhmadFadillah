@@ -7,6 +7,6 @@
 2. Felic Wicent (PYTN-KS17-025)
 3. Haniefa Aulia Rahma (PYTN-KS17-01)
 - **Instructor** : Chamdan L Abdulbaaqiy
-- **Project**    : Linear Regression pada Uber & Lyft   
+- **Project**    : Ensemble - Random Foreset dan Boosting pada Heart Failure Prediction
 - **Bacth**    : 5
 
